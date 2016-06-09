@@ -3,4 +3,4 @@ High School
 Doyle
 
 College
-ECSU
+ECU
